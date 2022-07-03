@@ -1,7 +1,7 @@
-## Senk0n
-a.k.a `Сенкоша`
+## senk0n
+a.k.a `senk` || `сенкоша`
 
-### Pages
+### pages
 [telegram](//t.me/senk0n) | [blog](//t.me/s0blog) | [lab](//t.me/s0lab)
 
 <!--
