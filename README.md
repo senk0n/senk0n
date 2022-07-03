@@ -2,7 +2,7 @@
 a.k.a `senk` || `сенкоша`
 
 ### pages
-[telegram](//t.me/senk0n) | [blog](//t.me/s0blog) | [lab](//t.me/s0lab)
+[telegram](//t.me/senk0n) | [linkedin](//linkedin.com/in/senk0n) | [blog](//t.me/s0blog) | [lab](//t.me/s0lab)
 
 <!--
 ### Stats (lmao)
