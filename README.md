@@ -1,8 +1,8 @@
 ## senk0n
-a.k.a `senk` & `сенкоша`
+a.k.a `senk` or `senko`-san
 
 ### pages
-[telegram](//t.me/senk0n) | [linkedin](//linkedin.com/in/senk0n) | [blog](//t.me/s0blog) | [lab](//t.me/s0lab)
+[lab](//t.me/s0lab) | [tg](//t.me/senk0n) | [in](//linkedin.com/in/senk0n)
 
 <!--
 ### Stats (lmao)
