@@ -1,5 +1,5 @@
 ## senk0n
-a.k.a `senk` or `senko`-san
+a.k.a `senk` <!-- or `senko`-san -->
 
 ### pages
 [lab](//t.me/s0lab) | [tg](//t.me/senk0n) | [in](//linkedin.com/in/senk0n)
