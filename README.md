@@ -1,12 +1,14 @@
 ## senk0n
 a.k.a `senk` <!-- or `senko`-san -->
 
-### pages
-[lab](//t.me/s0lab) | [tg](//t.me/senk0n) | [in](//linkedin.com/in/senk0n)
+### project~~s~~
+- [risuto.moe](//github.com/senk0n/moe-risuto-app) - multi-service multiplatform moe tracker
 
+### contact
+[lab](//t.me/s0lab) | [in](//linkedin.com/in/senk0n)
 <!--
-### Stats (lmao)
-[![trophy](https://github-profile-trophy.vercel.app/?username=senk0n&theme=onedark&no-bg=true)](//github.com/ryo-ma/github-profile-trophy)
-[![GitStats](https://github-readme-stats.vercel.app/api?username=senk0n&show_icons=true&count_private=true&locale=en&layout=compact&theme=onedark&title_color=0057ad&icon_color=0057ad&bg_color=0d1117&custom_title=Senk0n+shit+on+GitHub)](//github.com/anuraghazra/github-readme-stats)
+### stats
+[![GitStats](https://github-readme-stats.vercel.app/api?username=senk0n&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=compact&theme=onedark&title_color=0057ad&icon_color=0057ad&bg_color=0d1117&custom_title=senk0n's+GitHub+Stats)](//github.com/anuraghazra/github-readme-stats)
 
-![Views](https://komarev.com/ghpvc/?username=senk0n&style=flat&color=0057ad) &label=Some+magic+counte-->
+![Views](https://komarev.com/ghpvc/?username=senk0n&style=flat&color=0057ad&label=cool+count) 
+-->
